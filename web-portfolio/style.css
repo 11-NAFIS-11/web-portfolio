@@ -51,6 +51,40 @@ section{
   background-image: url(images/dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
-  height:300px;
+  height:700px;
   
+  
+}
+.third-sction{
+  width:40%;
+  height:40%;
+  margin: 40px;
+  padding: 40px;
+  margin-right: 40px;
+  float:left;
+
+}
+.Text-experiences{
+  color:aqua;
+  font-weight: bold;
+}
+.third-sction{
+  box-shadow: 10px 10px 40px gray;
+  height: 50%;
+  border-radius: 5px;
+}
+.Final{
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  
+}
+#Full-stack {
+  border-left: 20px solid tomato;
+}
+#baby-dev{
+  border-left:20px solid cornflowerblue;
+}
+.footer{
+  text-align: center;
 }
